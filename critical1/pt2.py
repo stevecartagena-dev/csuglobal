@@ -1,0 +1,7 @@
+print('Find the multiplication and division of two numbers')
+print('Input your first number, then press enter')
+num1 = int(input())
+print('Input your second number, then press enter')
+num2 = int(input())
+print(num1*num2)
+print(num1/num2)
