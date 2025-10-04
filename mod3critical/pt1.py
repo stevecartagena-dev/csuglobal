@@ -1,7 +1,4 @@
-
-# Online Python - IDE, Editor, Compiler, Interpreter
-
-print('I can calculate the total amount of your resturant bill')
+print('I can calculate the total amount of your restaurant bill')
 print('Please input your food charge and I will take care of the rest')
 food = float(input()) #added float to make sure decimals are included
 tip = food * 0.18
